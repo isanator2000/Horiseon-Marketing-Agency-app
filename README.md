@@ -9,8 +9,9 @@ I added accessible alt text to the images, made sure the headings were in order 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To navigate through this webpage, you can click on the titles displayed in the header bar. Doing so will take you to the corresponding section where you can read some information. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+![Screenshot showing the header and hero image](./images/horiseon1.png)
+![Screenshot showing part of the sections of the page and part of the aside](./images/horiseon2.png)
+![Screenshot showing the remaining part of the sections of the page and the aside, and the footer](./images/horiseon3.png)
 
-![alt text](assets/images/screenshot.png)
