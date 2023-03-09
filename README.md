@@ -15,7 +15,7 @@ To navigate through this webpage, you can click on the titles displayed in the h
 ![Screenshot showing part of the sections of the page and part of the aside](./images/horiseon2.png)
 ![Screenshot showing the remaining part of the sections of the page and the aside, and the footer](./images/horiseon3.png)
 
-[Horiseon marketing agency webpage] (https://isanator2000.github.io/horiseon-marketing-agency-app/)
+[Horiseon marketing agency webpage](https://isanator2000.github.io/horiseon-marketing-agency-app/)
 
 ## Notes
 Although I cannot properly credit them because I do not have any links to their GitHub profiles or anything of the sort, I would like to thank my tutor Patrick Lake for guiding me through this assignment, as well as Daniel and Maverick, AskBCS Learning Assistants that helped me sort out some issues encountered while trying to deploy the page. 
