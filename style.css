@@ -1,13 +1,16 @@
+/* Apply box-sizing border-box to all elements, and remove default margin and padding */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Set background color for the whole body */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,19 @@ body {
     color: #ffffff;
 }
 
+/* Style the h1 element inside the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Style for seo section */
 .seo {
     color: #d9dcd6;
 }
 
+
+/* Styling for the div element inside the header */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,6 +39,7 @@ body {
     font-size: 20px;
 }
 
+/* Style for the list items inside the div element */
 .header div ul li {
     list-style-type: none;
     display: inline-block;
@@ -39,15 +47,18 @@ body {
 }
 
 
+/* Style for links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Default font size for paragraphs */
 p {
     font-size: 16px;
 }
 
+/* Hero section styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -57,22 +68,28 @@ p {
     background-position: center;
 }
 
+/* Float left helper class */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Float right helper class */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+
+/* Styling for the main content section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+
+/* Styling for individual content sections */
 .content-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -83,16 +100,19 @@ p {
 }
 
 
+/* Styling for images inside content sections */
 .content-section img {
     max-height: 200px;
 }
 
+/* Styling for h2 headings inside content sections */
 .content-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 
+/* Styling for the benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,22 +124,26 @@ p {
     background-color: #2589bd;
 }
 
+/* Styling for individual benefits */
 .benefit-content {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Styling for h3 headings inside benefits */
 .benefit-content h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Styling for images inside benefits */
 .benefit-content img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Styling for the footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -127,6 +151,7 @@ p {
     text-align: center;
 }
 
+/* Styling for h4 heading inside the footer */
 .footer h4 {
     font-size: 20px;
 }
